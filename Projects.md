@@ -15,6 +15,7 @@
 > 	- [ ]  Learn theory
 > - [ ]  Introduction to AI
 > 	- [ ]  Learn theory
+> 	- [x]  LMS
 > - [ ]  Marxist political economic 
 > 	- [ ]   
 
