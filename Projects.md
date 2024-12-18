@@ -1,12 +1,22 @@
 >[!Todo] Schools
 > - [ ]  Software engineer
-> 	- [ ]  
+> 	- [ ]  Presentation
+> 	- [ ]  Report
 > - [ ]  Calculus 1
+> 	- [ ]  1h/day
+> 	- [ ]  All theory
+> 	- [ ]  All examples in student book
+> 	- [ ]  All exercises 
 > - [ ]  Tech
+> 	- [ ]  Technical report
 > - [ ]  Applied Algorithms
+> 	- [ ]  Learn theory
 > - [ ]  Project management
+> 	- [ ]  Learn theory
 > - [ ]  Introduction to AI
+> 	- [ ]  Learn theory
 > - [ ]  Marxist political economic 
+> 	- [ ]   
 
 
 >[!todo] Fintrack
