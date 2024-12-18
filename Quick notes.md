@@ -12,7 +12,13 @@
 > 	- [ ]  LMS w14
 > - [ ]  Fintrack
 > 	- [ ]  Basic layout
-> 	- [ ]  Put real informations 
+> 		- [ ]  Analysis 
+> 		- [ ]  Accounts
+> 		- [ ]  
+> 	- [ ]  Put real informations into layout (from indexedDB)
+> 		- [ ] 
+> 	- [ ]  Encrypt data
+> 		- [ ]  
 
 
 
