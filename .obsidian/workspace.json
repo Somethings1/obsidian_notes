@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Working path/Các kiến thức chuyên ngành Vip pro/Các kiến thức chuyên ngành Vip pro.md",
+                "file": "Resources/Working path/Các kiến thức chuyên ngành Vip pro/Design patterns/Design patterns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Các kiến thức chuyên ngành Vip pro"
+              "title": "Design patterns"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Working path/Các kiến thức chuyên ngành Vip pro/Các kiến thức chuyên ngành Vip pro.md",
+                "file": "Resources/Working path/Các kiến thức chuyên ngành Vip pro/Design patterns/Design patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Các kiến thức chuyên ngành Vip pro"
+              "title": "Backlinks for Design patterns"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Working path/Các kiến thức chuyên ngành Vip pro/Các kiến thức chuyên ngành Vip pro.md",
+                "file": "Resources/Working path/Các kiến thức chuyên ngành Vip pro/Design patterns/Design patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Các kiến thức chuyên ngành Vip pro"
+              "title": "Outgoing links from Design patterns"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Working path/Các kiến thức chuyên ngành Vip pro/Các kiến thức chuyên ngành Vip pro.md"
+                "file": "Resources/Working path/Các kiến thức chuyên ngành Vip pro/Design patterns/Design patterns.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Các kiến thức chuyên ngành Vip pro"
+              "title": "Outline of Design patterns"
             }
           },
           {
@@ -156,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -177,6 +177,7 @@
   },
   "active": "620493edff02ff0c",
   "lastOpenFiles": [
+    "Resources/Working path/Các kiến thức chuyên ngành Vip pro/Các kiến thức chuyên ngành Vip pro.md",
     "Resources/Working path/Các kiến thức chuyên ngành Vip pro/Design patterns/Design patterns.md",
     "Welcome.md",
     "Projects/Reading & Watching/Why Humans Are Vanishing.md",
@@ -199,7 +200,6 @@
     "Projects/Schooling/Software Engineering/Thiết kế hệ thống app/Thiết kế hệ thống app.md",
     "Projects/Schooling/Software Engineering/Họp 27-9.md",
     "Projects/Reading & Watching/Chế độ dân chủ, nhà nước và xã hội/Tuyên ngôn quốc tế nhân quyền (1948).md",
-    "Resources/Working path/Các kiến thức chuyên ngành Vip pro/Các kiến thức chuyên ngành Vip pro.md",
     "Resources/Working path/Các kiến thức lặt vặt/Các kiến thức lặt vặt.md",
     "Resources/Working path/Các ngành nghề khác.md",
     "Resources/Hanging outs/Tổng hợp địa điểm/46A Trần Hưng Đạo.md",
