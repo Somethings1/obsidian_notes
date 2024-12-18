@@ -14,7 +14,12 @@
 > 	- [ ]  Basic layout
 > 		- [ ]  Analysis 
 > 		- [ ]  Accounts
-> 		- [ ]  
+> 		- [ ]  Savings
+> 		- [ ]  Settings
+> 			- [ ]  Floating point
+> 			- [ ]  Currency
+> 			- [ ]  Currency before or after amount
+> 			- [ ]  Export data
 > 	- [ ]  Put real informations into layout (from indexedDB)
 > 		- [ ] 
 > 	- [ ]  Encrypt data
