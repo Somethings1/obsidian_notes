@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Working path/Các kiến thức chuyên ngành Vip pro/Design patterns/Design patterns.md",
+                "file": "Quick notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design patterns"
+              "title": "Quick notes"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Working path/Các kiến thức chuyên ngành Vip pro/Design patterns/Design patterns.md",
+                "file": "Quick notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Design patterns"
+              "title": "Backlinks for Quick notes"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Working path/Các kiến thức chuyên ngành Vip pro/Design patterns/Design patterns.md",
+                "file": "Quick notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Design patterns"
+              "title": "Outgoing links from Quick notes"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Working path/Các kiến thức chuyên ngành Vip pro/Design patterns/Design patterns.md"
+                "file": "Quick notes.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Design patterns"
+              "title": "Outline of Quick notes"
             }
           },
           {
@@ -177,8 +177,8 @@
   },
   "active": "620493edff02ff0c",
   "lastOpenFiles": [
-    "Resources/Working path/Các kiến thức chuyên ngành Vip pro/Các kiến thức chuyên ngành Vip pro.md",
     "Resources/Working path/Các kiến thức chuyên ngành Vip pro/Design patterns/Design patterns.md",
+    "Resources/Working path/Các kiến thức chuyên ngành Vip pro/Các kiến thức chuyên ngành Vip pro.md",
     "Welcome.md",
     "Projects/Reading & Watching/Why Humans Are Vanishing.md",
     "Projects/Reading & Watching/Reading & Watching.md",
