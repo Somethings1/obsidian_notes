@@ -1,5 +1,6 @@
->[!Todo] Schools
-> - [ ]  Software engineer
+# School
+> [!Todo] Todos 
+> - [ ]  Software engineering
 > 	- [ ]  Presentation
 > 	- [ ]  Report
 > - [ ]  Calculus 1
@@ -20,7 +21,8 @@
 > 	- [ ]   
 
 
->[!todo] Fintrack
+# Fintrack
+>[!todo] Todos
 >- [ ]  Basic layout
 > 	- [ ]  Analysis 
 > 	- [ ]  Accounts
