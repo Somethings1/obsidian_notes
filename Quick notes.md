@@ -34,7 +34,10 @@
 > 			- [ ]  Encrypt data based on that key before putting into indexedDB and send to server
 > 	- [ ]  Mobile (react native and sqlite instead of indexedDB)
 > 		- [ ]  All of the above
-> 	- [ ]  Sync data be
+> 	- [ ]  Sync data 
+> 		- [ ]  WebSocket to push updates
+> 		- [ ]  Use "last sync" to sync data when backed online
+
 
 
 
