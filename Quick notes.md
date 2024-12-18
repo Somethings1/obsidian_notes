@@ -1,14 +1,19 @@
 > [!important] To-do
-> [ ] SE
-> 	[ ] Report
-> 	[ ] Presentation
-> [ ] Project1
-> 	[ ] Problem analysis
-> 	[ ] Implementation
-> [ ] Tech
-> 	[ ] Technical report
-> [ ] AI 
-> 	[ ] LMS w11, 14
+> - [ ]  SE
+> 	- [ ]  Report
+> 	- [ ]  Presentation
+> - [ ]  Project1
+> 	- [ ]  Problem analysis
+> 	- [ ]  Implementation
+> - [ ]  Tech
+> 	- [ ]  Technical report
+> - [ ]  AI 
+> 	- [ ]  LMS w11
+> 	- [ ]  LMS w14
+> - [ ]  Fintrack
+> 	- [ ]  Basic layout
+> 	- [ ]  Put real informations 
+
 
 
 
