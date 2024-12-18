@@ -1,0 +1,25 @@
+  
+
+- Biểu diễn class:
+    - một hình chữ nhật, chia 3.
+    - Trên cùng ghi tên, ở giữa ghi các thuộc tính, dưới cùng ghi các phương thức.
+        - Nếu là interface thì chú thích <<interface>> vào bên dưới tên class
+    - Các thuộc tính và phương thức public ghi dấu + trước tên, protected ghi dấu #, private ghi dấu -, nếu là static thì gạch chân
+    - Các tên class hoặc method nếu là abstract thì in nghiêng
+- Các mối quan hệ
+    - Dependency (phụ thuộc yếu):
+        - Mũi tên nét đứt
+        - A phụ thuộc yếu vào B ⇔ nếu B thay đổi thì vài method của A ăn lôz
+    - Association (phụ thuộc mạnh hơn)
+        - Mũi tên nét liền
+        - A phụ thuộc mạnh vào B ⇔ nếu B thay đổi thì cả A ăn lôz
+    - Aggregation (chứa nhẹ)
+        - Mũi tên có hình thoi rỗng ở đít
+        - A chứa nhẹ B tức là A có một tập hợp toàn B ở bên trong A. Nhưng mà B có thể sống ngoài A, nếu đ có A thì còn thằng khác
+    - Composition (chứa mạnh hơn)
+        - Mũi tên có hình thoi đặc ở đít
+        - k có A thì đ có B
+    - Implementation (triển khai)
+        - Mũi tên đầu tam giác, nét đứt
+    - Inheritance (kế thừa)
+        - Mũi tên đầu tam giác, nét liền

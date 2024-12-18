@@ -1,0 +1,4 @@
+- [Phiên dịch viên](https://www.tiktok.com/@ymi.lan/video/7333128224936922370?is_from_webapp=1&sender_device=pc)
+- [Data analyst](https://www.tiktok.com/@imelijahbutler/video/7335624451037433131?is_from_webapp=1&sender_device=pc)
+- Part time job: [1](https://www.tiktok.com/t/ZS2aHLJ6b/), [2](https://www.tiktok.com/@vivihoclamonline/photo/7313188540022639873?is_from_webapp=1&sender_device=pc)
+- Virtual assistant
